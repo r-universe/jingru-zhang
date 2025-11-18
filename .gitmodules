@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ELmethodVar"]
+	path = ELmethodVar
+	url = https://github.com/jingru-zhang/elmethod
